@@ -1,0 +1,16 @@
+<div class="pokemon-img">
+    <img 
+    src="https://cdn.freebiesupply.com/images/large/2x/pokemon-logo-black-transparent.png"
+    width="200"
+/>
+</div>
+<div class="pokemon-list">
+<app-pokemon-card
+    *ngFor="let pokemon of pokemonService.pokemons; index as i" 
+    [pokemon]="pokemon.name"
+    [number]="i + 1" 
+></app-pokemon-card>
+</div>
+<!--
+<div *ngFor="let pokemon of pokemons" > Pokemon: {{ pokemon }} </div>
+-->
