@@ -1,27 +1,38 @@
-# AngularPokedex
+# Pokedex - Angular Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
-## Development server
+## Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Welcome to a canon event, MY POKEDEX!
 
-## Code scaffolding
+This project is a web-based Pokedex built using the Angular framework. It allows users to explore various Pokémon species.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+To run the Pokedex application locally on your machine, follow these steps:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+`git clone https://github.com/your-username/angular-pokedex.git`
 
-## Running unit tests
+Navigate to the project directory:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`cd pokedex-angular`
 
-## Running end-to-end tests
+Install the required dependencies using npm:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+`npm install`
 
-## Further help
+## Usage
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Once you have installed the dependencies, you can start the development server by running the following command:
+
+`ng serve --o`
+
+## Technologies Used
+
+The Pokedex Angular application was built using the following technologies:
+- Angular
+- TypeScript
+- HTML
+- SASS
+- PokéAPI
