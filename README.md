@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Introduction
 
-Welcome to a canon event, MY POKEDEX!
+Welcome to the canon event, MY POKEDEX!
 
 This project is a web-based Pokedex built using the Angular framework. It allows users to explore various Pokémon species.
 
